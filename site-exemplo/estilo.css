@@ -1,0 +1,26 @@
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+.curvado{
+    background: tomato;
+    color:whitesmoke;
+    text-align: center;
+}
+.curvado h1{
+    font-family: 'Segoe UI';
+    margin-top: 0;
+}
+
+.curvado p{
+    font-family: 'Verdana';
+    margin: 0 5rem 0 5rem ;
+}
+
+.curvado svg{
+    display: block;
+}
+.curva.upper{
+    background: white;
+}
